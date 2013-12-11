@@ -1,0 +1,12 @@
+/.idea/*
+temp
+
+
+/app/config/config.local.neon
+/data/presenterLog.dat
+/log
+/libs/
+/www/webtemp
+*.iws
+*/.idea/workspace.xml
+*/.idea/tasks.xml
