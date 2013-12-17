@@ -9,9 +9,9 @@ common:
 		database:
 			driver: pdo_mysql
 			host: localhost
-			dbname: dispatchingo
-			user: dispatchingo
-			password: dispatchingo
+			dbname: secondlevelcache
+			user: root
+			password:
 			charset: utf8
 			collation: utf8_czech_ci
 
